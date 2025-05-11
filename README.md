@@ -7,11 +7,14 @@
 <img
   align="left"
   alt="Likedin"
-title="Likedin"
-width="30px"
-style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
-  [Meu Linkedin](https://www.linkedin.com/in/brenno-costa-bb650a352/)
+title="(https://www.linkedin.com/in/brenno-costa-bb650a352/)"
+width="60px"
+style="padding-right: 60px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  
+    
+          
+  [Meu Linkedin]
           
 ### Minhas Linguagens de Programação
 <!--
