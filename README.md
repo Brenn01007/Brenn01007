@@ -7,16 +7,30 @@
 <img
   align="left"
   alt="Likedin"
-title="(https://www.linkedin.com/in/brenno-costa-bb650a352/)"
-width="60px"
-style="padding-right: 60px;"
+title="Likedin"
+width="80px"
+style="padding-right: 80px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  
-    
-          
-  [Meu Linkedin]
           
 ### Minhas Linguagens de Programação
+<img
+  align="left"
+  alt="C"
+title="C"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+<img
+  align="left"
+  alt="C"
+title="C"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+
+
 <!--
 **Brenn01007/Brenn01007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
