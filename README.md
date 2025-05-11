@@ -5,7 +5,7 @@
 
 
 <img
-  align="left"
+  align="up"
   alt="Likedin"
 title="Likedin"
 width="80px"
