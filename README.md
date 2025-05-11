@@ -2,6 +2,7 @@
 - 🔭 Sou estudante de Ciência da Computação.
 - 📖 Nivel Avançado em Língua Inglesa.
 - 🎬 Editor de Vídeo.
+
 Sobre Mim: Meu nome é Brenno, estou com 18 anos e atualmente curso Ciência da Computação no CEUB, na unidade de Taguatinga. Tive interesse nessa área pois gosto muito da área, e desde pequeno eu era fascinado pela tecnologia e suas vertentes, sempre me dei bem com a área de Exatas na escola e espero continuar nesse ritmo no CEUB. 
 
 <img
