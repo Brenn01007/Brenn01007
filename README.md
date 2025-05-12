@@ -1,5 +1,5 @@
 # Ola sou Brenno 👋
-- 🔭 Sou estudante de Ciência da Computação.
+- 🔭 Sou estudante de Ciência da Computação no CEUB.
 - 📖 Nivel Avançado em Língua Inglesa.
 - 🎬 Editor de Vídeo.
 <picture>
