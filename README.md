@@ -16,7 +16,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brenn01007)](https://github.com/anuraghazra/github-readme-stats)
 
-👤 Sobre Mim: Meu nome é Brenno, estou com 18 anos e atualmente curso Ciência da Computação no CEUB, na unidade de Taguatinga. Tive interesse nessa área pois gosto muito da área, e desde pequeno eu era fascinado pela tecnologia e suas vertentes, sempre me dei bem com a área de Exatas na escola e espero continuar nesse ritmo no CEUB. 
+## 👤 Sobre Mim: 
+
+Meu nome é Brenno, estou com 18 anos e atualmente curso Ciência da Computação no CEUB, na unidade de Taguatinga. Tive interesse nessa área pois gosto muito da área, e desde pequeno eu era fascinado pela tecnologia e suas vertentes, sempre me dei bem com a área de Exatas na escola e espero continuar nesse ritmo no CEUB. 
 
 ### 🔗 Conexões:
 <div>
@@ -24,7 +26,8 @@
 width="200px"
 </div>
           
-### 🧰 Minhas Linguagens de Programação:
+## 🧰 Minhas Linguagens de Programação:
+
 <img
   align="left"
   alt="C"
